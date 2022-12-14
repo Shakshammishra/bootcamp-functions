@@ -28,3 +28,4 @@ primarily:
 * planned status
 
 More details on these timeseries and the calculation is found in the [CDF Enablement Bootcamp](https://docs-bootcamp.app.cogniteapp.com/) documentation.
+ewogICJjbGllbnQtaWQiOiDigJxiZDJmMWUyYS00ZTUzLTRkYjMtYTA1ZC01NWQ3N2VhN2JlZTnigJ0sCiAgImNsaWVudC1zZWNyZXQiOiAg4oCcR3VUOFF+QWY5UFpSZ3VVWFI3dGYwZ3NGQkxYajBKVmFtaE13UWNIT+KAnQp9Cg==
