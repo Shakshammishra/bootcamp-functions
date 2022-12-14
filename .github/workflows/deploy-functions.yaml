@@ -77,6 +77,7 @@ jobs:
         shell: bash
         # Secret name should be EXTRA_SECRETS_{function name} (if applicable)
         run: |
+          echo "SECRET"
           echo "extra_secrets_name=EXTRA_SECRETS_${{ matrix.function }}" >> $GITHUB_OUTPUT
         id: extract_secrets
 
