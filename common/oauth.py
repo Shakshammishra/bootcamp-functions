@@ -12,6 +12,7 @@ from cognite.client.credentials import OAuthClientCredentials
 @dataclass
 class FunctionConfig:
     """
+    Dummy change
     Common parameters to specify for Github workflows.
     Full list: https://github.com/cognitedata/function-action-oidc#function-metadata-in-github-workflow
     """
